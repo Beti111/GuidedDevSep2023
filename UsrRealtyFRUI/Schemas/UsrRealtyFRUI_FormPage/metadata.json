@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "09cff8b9-6ad0-429a-bec2-707d268bbca6"
+= MetaData.Schema.A2 "UsrRealtyFRUI_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["45843e97-8d6d-4f91-931a-b7b6397f406e","c1263704-77af-409f-bc3c-7245e100f359","b382d9fc-bb98-482c-a1f1-54fb5b0d1bac","45d8f1e1-4c17-4a15-8c04-9996c0e37aa0"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

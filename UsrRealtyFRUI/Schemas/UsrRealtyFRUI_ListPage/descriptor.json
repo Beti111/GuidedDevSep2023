@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f837cebc-403a-44f8-b0f2-802adb60e21e",
+    "Name": "UsrRealtyFRUI_ListPage",
+    "ModifiedOnUtc": "\/Date(1696148328000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty FRUI list page",
+    "DependsOn": []
+  }
+}
